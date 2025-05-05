@@ -8,8 +8,8 @@ This project explores core challenges in *information extraction* from layout-ri
 
 It benchmarks the outcomes of different design choices against *LayoutLMv3* and *GPT-4o Vision*.
 
-📄 **[Read the Paper](https://github.com/user-attachments/assets/78d2c111-0716-4571-809c-ce9ad38524f5)**  
-![Paper](https://github.com/user-attachments/assets/78d2c111-0716-4571-809c-ce9ad38524f5)
+📄 **[Read the Paper](https://arxiv.org/pdf/2502.18179)**  
+[![Paper Preview](https://github.com/user-attachments/assets/78d2c111-0716-4571-809c-ce9ad38524f5)](https://arxiv.org/pdf/2502.18179)
 
 ---
 
