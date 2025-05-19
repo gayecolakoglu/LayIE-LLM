@@ -6,7 +6,7 @@ This project explores core challenges in *information extraction* from layout-ri
 - ✅ *Prompting*
 - ✅ *Selection of LLMs and multimodal models*
 
-It benchmarks the outcomes of different design choices against *LayoutLMv3* and *GPT-4o Vision*.
+It benchmarks the outcomes of different design choices against *LayoutLMv3*, *ERNIE-Layout* and *GPT-4o Vision*.
 
 📄 **[Read the Paper](https://arxiv.org/pdf/2502.18179)**  
 [![Paper Preview](https://github.com/user-attachments/assets/78d2c111-0716-4571-809c-ce9ad38524f5)](https://arxiv.org/pdf/2502.18179)
@@ -35,7 +35,7 @@ pip install -e .
 
 ### 2️⃣ Dataset 📂
 - The vrdu2 folder contains required files for testing *LLaMA, GPT-3.5, and GPT-4o*.
-- This project specifically tests *registration-form* data (filtered as explained in Appendix A.2 of the paper).
+- This project specifically tests *registration-form* data (filtered as explained in Appendix A.3 of the paper).
 - Full dataset available at: [VRDU Dataset](https://github.com/google-research-datasets/vrdu).
 
 ### 3️⃣ API Keys 🔑
@@ -86,7 +86,7 @@ MODEL_gpt_3  # Other options: MODEL_llama, MODEL_gpt_4
 ---
 
 ## 🏆 Conclusion
-This project provides a comprehensive evaluation of *LLM-based information extraction* from *layout-rich documents, comparing different **input formats, models, and processing techniques*.
+This project provides a comprehensive evaluation of *LLM-based information extraction* from layout-rich documents, comparing different input formats, models, and processing techniques.
 
 💡 *Feel free to contribute, suggest improvements, or report issues!* 🚀
 
