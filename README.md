@@ -90,18 +90,3 @@ This project provides a comprehensive evaluation of *LLM-based information extra
 
 💡 *Feel free to contribute, suggest improvements, or report issues!* 🚀
 
-## 📚 Reference
-The following citation should be used for the paper associated with this project:
-
-```
-@misc{colakoglu2025problemsolvedinformationextraction,
-      title={Problem Solved? Information Extraction Design Space for Layout-Rich Documents using LLMs}, 
-      author={Gaye Colakoglu and Gürkan Solmaz and Jonathan Fürst},
-      year={2025},
-      eprint={2502.18179},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2502.18179}, 
-}
-```
-
