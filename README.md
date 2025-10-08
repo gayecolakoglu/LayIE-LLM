@@ -26,6 +26,12 @@ cd LayIE-LLM
 # Install Poppler to use pdf2image
 sudo apt-get install -y poppler-utils
 
+#install scikit-learn
+pip install scikit-learn
+
+# Install Python-Levenshtein
+pip install python-Levenshtein
+
 # Create and activate a Conda environment
 conda create -n LayIE-LLM python=3.11
 conda activate LayIE-LLM
