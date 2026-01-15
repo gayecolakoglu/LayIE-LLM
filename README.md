@@ -8,8 +8,10 @@ This project explores core challenges in *information extraction* from layout-ri
 
 It benchmarks the outcomes of different design choices against *LayoutLMv3*, *ERNIE-Layout* and *GPT-4o Vision*.
 
-📄 **[Read the Paper]([https://arxiv.org/pdf/2502.18179](https://aclanthology.org/2025.findings-emnlp.973/))**  
-[![Paper Preview](https://github.com/user-attachments/assets/78d2c111-0716-4571-809c-ce9ad38524f5)]([https://arxiv.org/pdf/2502.18179](https://aclanthology.org/2025.findings-emnlp.973.pdf))
+📄 **[Read the Paper](https://aclanthology.org/2025.findings-emnlp.973/)**  
+
+[![Paper Preview](https://github.com/user-attachments/assets/78d2c111-0716-4571-809c-ce9ad38524f5)](https://aclanthology.org/2025.findings-emnlp.973.pdf)
+
 
 ---
 
