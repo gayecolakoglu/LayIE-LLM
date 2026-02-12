@@ -25,6 +25,15 @@ Tested with *Python 3.11.6* and *Conda* on a *Linux server (Ubuntu 5.15.0-124-ge
 git clone git@github.com:gayecolakoglu/LayIE-LLM.git
 cd LayIE-LLM
 
+# Install Poppler to use pdf2image
+sudo apt-get install -y poppler-utils
+
+#install scikit-learn
+pip install scikit-learn
+
+# Install Python-Levenshtein
+pip install python-Levenshtein
+
 # Create and activate a Conda environment
 conda create -n LayIE-LLM python=3.11
 conda activate LayIE-LLM
